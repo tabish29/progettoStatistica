@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Questo progetto si concentra sull'analisi e sull'elaborazione di un dataset scelto da [Kaggle](https://www.kaggle.com). 
+Questo progetto si concentra sull'analisi e sull'elaborazione di un [dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset) scelto da [Kaggle](https://www.kaggle.com). 
 Il progetto include i seguenti passaggi fondamentali: c, pre-processing, esplorazione dei dati, addestramento dei modelli, ottimizzazione degli iperparametri e valutazione delle prestazioni.
 1. **Caricamento del dataset**
 2. **Pre-processing**
